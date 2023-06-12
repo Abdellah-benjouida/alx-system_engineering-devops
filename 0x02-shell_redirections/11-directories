@@ -1,1 +1,2 @@
 #!/bin/bash
+du -a 0x02-shell_redirections
